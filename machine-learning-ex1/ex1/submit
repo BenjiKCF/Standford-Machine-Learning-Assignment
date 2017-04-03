@@ -1,0 +1,84 @@
+A =
+
+Diagonal Matrix
+
+   1   0   0   0   0
+   0   1   0   0   0
+   0   0   1   0   0
+   0   0   0   1   0
+   0   0   0   0   1
+
+J =  148.14
+theta =
+
+   0.65995
+   1.44514
+
+J =  12.493
+theta =
+
+   0.61452
+   0.88536
+
+J =  1.2598
+theta =
+
+   0.62818
+   1.04639
+
+J =  0.32964
+theta =
+
+   0.62484
+   1.00001
+
+J =  0.25260
+theta =
+
+   0.62639
+   1.01331
+
+J =  0.24620
+theta =
+
+   0.62654
+   1.00943
+
+J =  0.24565
+theta =
+
+   0.62709
+   1.01050
+
+J =  0.24559
+theta =
+
+   0.62752
+   1.01014
+
+J =  0.24556
+theta =
+
+   0.62798
+   1.01020
+
+J =  0.24554
+theta =
+
+   0.62843
+   1.01013
+
+J =  0.24552
+== 
+==                                   Part Name |     Score | Feedback
+==                                   --------- |     ----- | --------
+==                            Warm-up Exercise |  10 /  10 | Nice work!
+==           Computing Cost (for One Variable) |  40 /  40 | Nice work!
+==         Gradient Descent (for One Variable) |  50 /  50 | Nice work!
+==                       Feature Normalization |   0 /   0 | Nice work!
+==     Computing Cost (for Multiple Variables) |   0 /   0 | 
+==   Gradient Descent (for Multiple Variables) |   0 /   0 | 
+==                            Normal Equations |   0 /   0 | 
+==                                   --------------------------------
+==                                             | 100 / 100 | 
+== 
